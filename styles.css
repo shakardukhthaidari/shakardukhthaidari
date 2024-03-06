@@ -1,0 +1,108 @@
+body {
+    font-family: sans-serif;
+  }
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+.weather{
+    border-radius: 2px;
+    padding: 10px;
+    max-width: 400px;
+    margin: 10px; 
+}
+
+.weather-title {
+    color: grey;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.weather-details {
+    margin-bottom: 10px;
+    
+}
+
+.weather-details p {
+    margin: 5px 0;
+    color: grey;
+}
+.weather-card {
+    align-items: center;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(109, 106, 106, 0.1);
+    padding: 20px;
+    width: 400px;
+    height: 250px;
+    margin: auto;
+}
+
+.weather-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.weather-details {
+    margin-bottom: 10px;
+}
+
+.weather-details p {
+    margin: 5px 0;
+}
+
+#cityInput {
+    width: 200px;
+    padding: 5px;
+    margin-right: 10px;
+}
+
+#fetchButton {
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+#fetchButton:hover {
+    background-color: #0056b3;
+}
+.all-icon{
+    position: relative;
+
+}
+.img-1{
+width: 64px;
+height: 64px;
+margin-right: 10px;
+}
+.weather-icon{
+    position: relative;
+    text-align: left;
+    margin: lif;
+    flex:0,0,50%;
+    max-width: 50%;
+}
+.weather-icon p{
+    color: grey;
+}
+.font{
+font-size: 60px;
+
+}
+.list{
+    text-align: justify;
+    margin-left: 200px;
+    margin-top:-70px;
+position: relativea;
+color: rgb(129, 124, 124);
+
+}
+.ul-class{
+    list-style: none;
+}  
