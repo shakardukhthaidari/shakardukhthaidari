@@ -1,4 +1,4 @@
-body {
+https://main--beautiful-puffpuff-b5ed86.netlify.app/https://main--beautiful-puffpuff-b5ed86.netlify.app/body {
     font-family: sans-serif;
   }
   body {
@@ -106,3 +106,9 @@ color: rgb(129, 124, 124);
 .ul-class{
     list-style: none;
 }  
+.contact-bnt{
+    display:block;
+    margin:0 auto;
+    width:300px;
+    height:100px;
+}
